@@ -1,0 +1,36 @@
+body{
+    background-color: whitesmoke;
+    margin: 0 auto;
+    
+}
+
+#navbar {
+    width: 100%;
+    height: 75px;
+    background-color: #996600
+
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    ;
+}
+
+li{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+#caixaUm {
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+}
+
+#caixaDois {
+    background-color: salmon;
+    width: 200px;
+    height: 200px;
+}
